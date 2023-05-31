@@ -1,0 +1,11 @@
+{
+  "name": "games-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jvcaversan/games-api.git",
+  "author": "Joao Vitor Caversan <joaovitorcaversan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
